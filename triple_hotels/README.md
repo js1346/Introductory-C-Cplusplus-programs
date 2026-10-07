@@ -17,9 +17,9 @@ The goal of the program is to process a sequence of $n$ motels (each described b
 
 ## Compilation and Execution
 
-The project compiles using `gcc` along with a dedicated optimization options file[cite: 1]:
+The project compiles using `gcc` along with a dedicated optimization options file:
 
-    gcc triple_hotels.c -o triple_hotels.e
+    gcc @opcje triple_hotels.c -o triple_hotels.e
 
 Running the program (input data provided via standard input):
 
