@@ -1,3 +1,4 @@
+## PROJECT WRITTEN IN POLISH
 # U-Strict Maximum Intervals Analysis
 
 This project implements an efficient, linear-time ($O(n)$) C++ solution for analyzing and finding optimal U-strict intervals for a sequence of coordinate points $(x_i, y_i)$ with strictly increasing $x$ coordinates.
