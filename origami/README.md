@@ -22,7 +22,7 @@ Supported geometric shapes and operations include:
 
 The project compiles using `gcc` with standard optimization flags and math library linking (`-lm`):
 
-    gcc -O2 origami.c -o origami.e -lm
+    gcc @opcje origami.c -o origami.e -lm
 
 Running the program (input data provided via standard input):
 
